@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.1.6",
+    "@clerk/nextjs": "^6.36.8",
+    "inngest": "^3.49.3",
+    "lucide-react": "^0.562.0",
+    "mongoose": "^9.1.5",
+    "next": "^15.5.9",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "react-hot-toast": "^2.5.1"
